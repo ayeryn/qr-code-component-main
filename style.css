@@ -1,0 +1,41 @@
+html {
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit";
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  /* width: 100vp; */
+}
+
+.card {
+  width: 150px;
+  height: 300px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.qr {
+  width: 120px;
+  height: 120px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.heading {
+  font-weight: 900;
+}
