@@ -8,22 +8,27 @@ body {
 }
 
 .card {
-  width: 200px;
+  width: 300px;
   background-color: white;
   border-radius: 15px;
+  text-align: center;
+  font-size: 15px;
 }
 
 .card img {
-  width: 180px;
-  height: 180px;
-  border-radius: 5px;
-  margin: 10px;
+  width: 270px;
+  height: 270px;
+  border-radius: 15px;
+  margin: 15px;
 }
 
 .card h2 {
-  font-weight: 900;
+  font-weight: 700;
+  margin: 20px;
 }
 
 .card p {
   font-weight: 400;
+  color: hsl(216, 15%, 48%);
+  margin: 25px;
 }
